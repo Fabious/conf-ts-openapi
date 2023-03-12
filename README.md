@@ -31,6 +31,7 @@
 ## Tools
 - https://openapi-generator.tech/
 - https://github.com/json-schema-faker/json-schema-faker
+- https://hoppscotch.io/
 
 
 ### Memes

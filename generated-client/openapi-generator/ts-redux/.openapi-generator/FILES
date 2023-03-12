@@ -1,0 +1,10 @@
+.gitignore
+.openapi-generator-ignore
+src/apis/PetsApi.ts
+src/apis/index.ts
+src/index.ts
+src/models/ModelError.ts
+src/models/Pet.ts
+src/models/index.ts
+src/runtime.ts
+tsconfig.json
