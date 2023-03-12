@@ -17,7 +17,6 @@
 * Generate mock with https://github.com/mswjs/msw
 
 ## Resources
-
 - https://openapi.tools/
 - https://blog.simonireilly.com/posts/typescript-openapi
 - https://github.com/drwpow/openapi-typescript
@@ -28,11 +27,15 @@
 - https://petstore.swagger.io/ (v2)
 - https://petstore3.swagger.io/ (v3)
 
-## Tools
+## Client generator
 - https://openapi-generator.tech/
+- https://github.com/ferdikoomen/openapi-typescript-codegen
+- https://github.com/fabien0102/openapi-codegen
+
+## Tools
 - https://github.com/json-schema-faker/json-schema-faker
 - https://hoppscotch.io/
-
+- https://openapi.tools/
 
 ### Memes
 - (boring)[https://media.makeameme.org/created/boring-95f85861da.jpg]
